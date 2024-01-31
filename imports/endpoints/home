@@ -1,0 +1,5 @@
+handleHome(){
+	case $1 in
+	GET) RESPONSE="$basicHTMLGet\r\n $(cat index.html)";
+	esac
+}

@@ -1,0 +1,8 @@
+handleDate(){
+	case $1 in
+	GET) RESPONSE="$basicJsonGet
+{
+date: "$(date)"
+}";
+	esac
+}
