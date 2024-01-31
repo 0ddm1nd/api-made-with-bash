@@ -3,13 +3,20 @@ A API fully made in bash, and compiled with shc;
 To run this script you need a UNIX-based shell, and install the dependencies
 ## Installation
 
-Clone this repo:\n
+Clone this repo:
+
 `git clone https://github.com/d1sturb1ng/api-made-with-bash.git`
-Install Dependencies:\n
-`apt install shc`\n
-Goto Cloned Repository:\n
-`cd api-made-with-bash`\n
-And Run:\n
+
+Install Dependencies:
+
+`apt install shc`
+
+Goto Cloned Repository:
+
+`cd api-made-with-bash`
+
+And Run:
+
 `chmod +x make.sh && ./make.sh`
 
 ## The API
