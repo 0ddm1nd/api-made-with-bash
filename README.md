@@ -21,14 +21,19 @@ And Run:
 
 ## The API
 This api have 2 only endpoints:
+
 /     -> the main page of the api;
+
 /date -> Returns the actual date;
+
 Others endpoint's requests will return a 404;
 
 ## Compatibility
 
 Ubuntu: OK;
+
 Termux: OK;
+
 Other Unix-Based systems: Probably Ok;
 
 ### made by _d1sturb1ng
